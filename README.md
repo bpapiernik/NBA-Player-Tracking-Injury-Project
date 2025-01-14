@@ -156,6 +156,14 @@ In the future, we would like to look at several different variables that can aff
 
 
 
+# Update
+Below are the updated variables of importance after expanding the project to 631 games. The project was expanded to include 631 games to gain a broader and more representative dataset, improving the reliability of our findings. By incorporating additional games, we were able to identify and validate key variables that influence injury risk and performance outcomes across diverse scenarios. The increased data volume enhances the model's generalizability, allowing for more accurate predictions and meaningful insights.
+
+One example of these refined insights is velo_high_15, which emerged as the most important variable with a SHAP value of 0.455. Higher values of velo_high_15 (indicated by purple) on the left side of the SHAP plot show that high-speed movements reduce the likelihood of injury, while lower values (yellow) increase injury risk. This nuanced understanding highlights the protective role of certain movement patterns, emphasizing how the expanded dataset allowed us to capture these critical relationships. The findings from variables like this provide actionable insights for injury prevention and performance optimization strategies.
+
+![injury1](https://github.com/user-attachments/assets/b337c29c-61dd-40cf-af7f-22273a92cda6)
+![injury2](https://github.com/user-attachments/assets/2ac982e3-77c5-4745-bd9d-ea98737fd37a)
+
 
 
 
